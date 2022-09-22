@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung A-series",
+      "color": "Aqua Lite",
+      "price": 18000,
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ladies Fashionable Watch",
+      "color": "pink",
+      "price": 500,
+      "category": "Watch",
+      "brand": "Titan",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Boys T-shirt",
+      "color": "Black",
+      "price": 300,
+      "category": "Clothes",
+      "brand": "Reebok",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iClever Headphones",
+      "color": "Purple",
+      "price": 1200,
+      "category": "Electronics",
+      "brand": "iClever",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lenovo T430 Laptop",
+      "color": "Silver",
+      "price": 60000,
+      "category": "Electronics",
+      "brand": "Lenovo",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Boat Wireless Earphones",
+      "color": "Black",
+      "price": 1000,
+      "category": "Electronics",
+      "brand": "Boat",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Adidas T-shirt",
+      "color": "White",
+      "price": 500,
+      "category": "Clothes",
+      "brand": "Adidas",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Puma Running Shoes",
+      "color": "Red",
+      "price": 15000,
+      "category": "Shoes",
+      "brand": "Puma",
+      "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+    }
+  ]
+}

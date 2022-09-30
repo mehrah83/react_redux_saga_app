@@ -1,0 +1,19 @@
+/*  Media Queries  */
+@media only screen and (max-width: 700px) {
+    .header{
+      flex-direction: column;
+      height: auto;
+    }
+    .logo img{
+        margin: 10px 15px;
+    }
+    .search-box input{
+        width: 45vw;
+        padding: 2px 15px;
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .cart-div{
+        right: 0px;
+    }
+    }

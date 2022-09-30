@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { addToCart, removeFromCart, emptyCart } from "../redux/action";
+import { addToCart, removeFromCart} from "../redux/action";
 import { useDispatch } from "react-redux";
 import Button from "react-bootstrap/Button";
 import { productList } from "../redux/productAction";
@@ -17,13 +17,6 @@ const Main = () => {
   return (
     <>
       <div className="text-center my-2">
-        <Button
-          variant="dark"
-          style={{ marginLeft: "10px" }}
-          onClick={() => dispatch(emptyCart())}
-        >
-          Empty Cart
-        </Button>
         <div className="product-container">
           {data.map((item, index) => {
             return (
